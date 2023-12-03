@@ -1,0 +1,72 @@
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Admin\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Frminicio2.resources
+D:\Programacion aplicada\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\Programacion aplicada\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\Programacion aplicada\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\Programacion aplicada\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\Programacion aplicada\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+D:\Programacion aplicada\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Frminicio2.resources
+D:\Programacion aplicada\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\Programacion aplicada\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\Programacion aplicada\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Programacion aplicada\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\Programacion aplicada\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Frminicio2.resources
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.registro.resources
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\jimen\Downloads\Examen final (1)\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Frminicio2.resources
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.registro.resources
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\jimen\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Frminicio2.resources
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.registro.resources
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\DELL 5580\Downloads\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Frminicio2.resources
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.registro.resources
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\Programacion aplicada\TERMINADO\Examen final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
